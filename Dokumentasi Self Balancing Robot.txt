@@ -1,0 +1,45 @@
+Dokumentasi Self-balancing Robot
+
+Tahap pertama yang dilakukan adalah melakukan research tentang prinsip self-balancing, 
+dan penerapannya pada self-balancing robot.
+
+Setelah memahami prinsip, selanjutnya mencari contoh dan desain dari robot itu sendiri, 
+setelah menemukan referensi, melakukan pemodelan desain dengan TinkerCad. 
+Desain yang diambil berupa robot dengan susunan menyerupai rak 2 tingkat, 
+dengan 2 ban di kiri dan kanan, yang nantinya akan dipasang Arduino Uno serta motor penggerak.
+
+Desain yang dibuat di TinkerCad, berupa papan untuk membuat rak. 
+Desain lalu disubmit, dan di 3D print. Papan di assembly dengan menggunakan spacer
+untuk menghubungkan setiap papan secara sederhana sebagai kerangka awal.
+
+Memasuki tahap perakitan robot secara utuh, yakni menambahkan roda, Arduino, dan motor. 
+Roda dipasang dibagian kiri dan kanan dari rak/robot, lalu menyambungkan kabel, 
+menambahkan Arduino Uno dan motor penggerak dengan menggunakan lem tembak.
+
+Tahap selanjutnya adalah melakukan check dan re-check, untuk memastikan semua bagian terpasang semestinya, 
+termasuk codingan yang dimasukkan ke dalam Arduino.
+
+Dalam melakukan percobaan, terdapat beberapa kendala yang kami hadapi. Yang pertama adalah dimana
+terdapat masalah pada gate OUT 3 dan 4 pada motor driver, dimana kabel tidak dapat terhubung ke
+OUT 3 dan 4. Karena itu, kami memutuskan untuk menggunakan 2 Gate OUT saja, yang satu untuk maju, dan
+yang satu untuk mundur. 
+
+Agar sensor MPU pada robot dapat bekerja dengan benar, dimana sensor dapat mengetahui dimana
+posisi yang datar, sensor harus dikalibrasi terlebih dahulu.
+
+Setelah itu adalah mencoba self-balancing robot yang telah dirakit, 
+apakah sesuai ekspektasi, serta dapat berfungsi optimal.
+
+Pembagian Tugas:
+- Brian   : Memberi Ide untuk Desain Robot Self Balancing, Membuat Dokumentasi Projek
+- Luis    : Pembuatan Robot Self Balancing
+- Dean    : Pembuatan Robot Self Balancing
+- Michael : 3D Modeling Robot Self Balancing, Pembuatan Robot Self Balancing
+- Jovan   : Pembuatan Robot Self Balancing, Membuat Dokumentasi Projek
+
+Jangka Waktu :
+
+Memikirkan Ide untuk Desain : 1 Hari
+3D Modelling Robot Self Balancing: 1 Hari
+Pembuatan Robot Self Balancing: 4 Hari
+Membuat Dokumentasi Projek : 1 Hari
