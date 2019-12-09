@@ -1,5 +1,13 @@
 Dokumentasi Self-balancing Robot
 
+Simulation Modelling Project, Anggota:
+1. Jovan
+2. Michael
+3. Luis
+4. Dean
+5. Brian
+
+Documentation:
 Tahap pertama yang dilakukan adalah melakukan research tentang prinsip self-balancing, 
 dan penerapannya pada self-balancing robot.
 
@@ -43,3 +51,5 @@ Memikirkan Ide untuk Desain : 1 Hari
 3D Modelling Robot Self Balancing: 1 Hari
 Pembuatan Robot Self Balancing: 4 Hari
 Membuat Dokumentasi Projek : 1 Hari
+
+References: https://circuitdigest.com/microcontroller-projects/arduino-based-self-balancing-robot
